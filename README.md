@@ -1,2 +1,2 @@
-# Formulá TIO - React e C#
+# Formulá TIO - C#
 Projeto - Conectados
